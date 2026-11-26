@@ -1,4 +1,4 @@
-name = "v20251104"
+name = "edt-4m8k2z"
 main = "_worker_copypaste.js"
 compatibility_date = "2025-11-04"
 # Emit a synchronous close/cleanup when the client disconnects (request.signal). The tracer + upstream
